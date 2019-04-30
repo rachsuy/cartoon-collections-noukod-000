@@ -6,7 +6,7 @@ def roll_call_dwarves(array) # code an argument here
   
 end
 
-<<<<<<< HEAD
+
 def summon_captain_planet(array)# code an argument here
   # Your code here
   planeteer_calls =[]
@@ -15,7 +15,7 @@ def summon_captain_planet(array)# code an argument here
   end
   return planeteer_calls
   
-  e
+end
 def summon_captain_planet(array)# code an argument here
   # Your code here
    nu_array = []
