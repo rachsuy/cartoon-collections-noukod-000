@@ -14,7 +14,8 @@ def summon_captain_planet(array)# code an argument here
    planeteer_calls << "#{call.capitalize}!"
   end
   return planeteer_calls
-=======
+  
+  e
 def summon_captain_planet(array)# code an argument here
   # Your code here
    nu_array = []
