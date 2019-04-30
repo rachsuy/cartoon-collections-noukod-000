@@ -25,7 +25,7 @@ def summon_captain_planet(array)# code an argument here
     i += 1 
   end 
   nu_array
->>>>>>> 435d5257ae52897f0d9dfd32e3ab751fca3fc07e
+
 end
 
 def long_planeteer_calls(array)# code an argument here
